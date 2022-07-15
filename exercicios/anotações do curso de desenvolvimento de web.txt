@@ -1,0 +1,36 @@
+ANOTAÇÕES do curso
+
+modulos do curso
+
+m01Primeiros passos------ Conceitos básicos, preparação do ambiente, semânica da HTML5, textos, ligações, multimidia, estilos. 
+m02Deixando as coisas mais bonitas------ Fundamentos do design, psicologia das cores, tipografia, elementos CSS, modelo de caixas, wireframe, responsividade.
+m03Colocando um protótipo no ar------- Versionamento de software, hospedagem de sites estáticos, tabelas. 
+m04Aprofundando os conhecimentos------ Quadors em linha, formulários, media queries, mobile first
+m05Novas tecnologias------ Flexbox, Grid Layout, Projeto final.
+
+
+REPOSITORIO PUBLICO
+
+2 Indereços que preciso ter 
+
+Primeiro-- github.com/gustavoguanabara
+Segundo-- gustavoguanabara.github.io
+
+ENDEREÇOS IMPORTANTES
+
+www.iplocation.net
+pexels 
+emojipédia
+
+ 
+
+SEMPRE LEMBRAR DE DICAS
+
+PARA CRIAR UMA DEMARCAÇÃO BASTA SELECIONAR O TESTO E CLICAR CTRL, SHIFT E P
+PARA CRIAR UM NOVO ARQUIVO QUE AINDA NÃO EXISTE NA PASTA BASTA SELECIONAR O CODIGO COM O MOUSE, PRESSIONAR CTRL E CLICAR COM O MOUSE
+
+
+
+Anotações css3
+Você pode utilizar mais de um link 
+No mesmo arquivo eu posso usar css externo, local/interno e inline  
